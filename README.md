@@ -69,6 +69,24 @@ python train.py --data data/plate.yaml --cfg models/yolov5s.yaml --weights weigh
 └── requirements.txt              # 依赖列表
 ```
 
+## 检测效果展示
+
+### 蓝牌识别
+
+![蓝牌](images/single_blue.jpg)
+
+### 绿牌识别
+
+![绿牌](images/single_green.jpg)
+
+### 双层黄牌识别
+
+![双层黄牌](images/double_yellow.jpg)
+
+### 摩托车牌
+
+![摩托车牌](images/moto.png)
+
 ## 适用场景
 
 - 停车场出入口车牌自动识别
