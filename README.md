@@ -109,6 +109,6 @@ python train.py --data data/plate.yaml --cfg models/yolov5s.yaml --weights weigh
 | 推理加速 | ONNX Runtime, OpenVINO |
 | 图像处理 | OpenCV |
 
-## License
+## 许可证
 
-MIT License
+MIT 许可证
