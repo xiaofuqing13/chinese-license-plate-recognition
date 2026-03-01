@@ -1,5 +1,8 @@
 # 中文车牌检测与识别系统
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)
+
+
 停车场出入口、道路卡口抓拍、车辆管理等场景中，车牌号码的自动识别是最基础也最关键的一环。但国内车牌类型复杂——蓝牌、绿牌（新能源）、黄牌、双层牌照各不相同，加上光照变化、倾斜角度、遮挡等干扰，通用 OCR 的识别率往往不够用。本项目基于 YOLOv5 做车牌定位 + 自定义 CNN 做字符识别，针对中文车牌做了专项优化，在各类牌照和复杂场景下都能保持较高的识别准确率。
 
 ## 痛点与目的
