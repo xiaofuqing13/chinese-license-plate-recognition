@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# PyTorch
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Data
+runs/
+result/
+result1/
+
+# Archives
+*.zip
+*.rar
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.idea/
+.vscode/
+
+# Video
+*.mp4
+
+# Misc
+环境配置.txt
