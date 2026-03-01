@@ -87,6 +87,10 @@ python train.py --data data/plate.yaml --cfg models/yolov5s.yaml --weights weigh
 
 ![摩托车牌](images/moto.png)
 
+### 识别流程
+
+![识别流程](images/recognition_pipeline.png)
+
 ## 适用场景
 
 - 停车场出入口车牌自动识别
